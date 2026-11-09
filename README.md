@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Guilherme Rodrigues
 
 
-Me chamo Guilherme Rodrigues Pereira de Oliveira, tenho 19 anos e sou natural de Sorocaba, São Paulo. Concluí o ensino médio no Objetivo-ZN. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Facens.
+Me chamo Guilherme Rodrigues Pereira de Oliveira, tenho 20 anos e sou natural de Sorocaba, São Paulo. Concluí o ensino médio no Objetivo-ZN. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Facens.
 <p align="left">
 ### 🤖 Linguagens e Tecnologias
 
